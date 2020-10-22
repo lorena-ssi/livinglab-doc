@@ -7,8 +7,8 @@ This is the documentation to deploy a substrate regulator node on the Livinglab 
 - Knowledge about Docker, Kubernetes and Helm
 - Kubernetes cluster deployed
 - A Kubernetes Storage Provider configured. *CaelumLabs recommends `SSD Storage` and you should enable K8S `allowVolumeExpansion` if is possible*
-- Kubectl [installed]: https://kubernetes.io/docs/tasks/tools/install-kubectl/
-- Helm v3 [installed]: https://helm.sh/docs/intro/install/
+- Kubectl [installed](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+- Helm v3 [installed](https://helm.sh/docs/intro/install/)
 
 # Installation
 
