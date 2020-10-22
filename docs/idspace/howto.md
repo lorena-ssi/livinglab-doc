@@ -1,3 +1,3 @@
 # Idspace Requirementes and Deployment
 
-[Idspace Official Documentation](https://doc.lorena.tech/6_idspace/requirements.html)
+Goes to the Lorena Idspace Official [Documentation](https://doc.lorena.tech/6_idspace/requirements.html)
