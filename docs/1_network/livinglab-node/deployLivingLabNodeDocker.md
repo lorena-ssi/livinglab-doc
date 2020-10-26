@@ -4,6 +4,8 @@ Step by step guide to deploy LivingLab node without Kubernetes, only using Docke
 
 > This is not the recommended way to deploy the node, but is usefull as a Dev or local deployment. Caelumlabs recommends [the Kubernetes deployment.](https://doc.livinglab.caelumlabs.com/1_network/livinglab-node/deployLivingLabNode.html)
 
+> If you need more information you can ask our support team: `tech-support@caelumlabs.com`
+
 # Installation
 
 ## Install docker

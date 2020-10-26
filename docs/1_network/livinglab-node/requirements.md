@@ -1,5 +1,7 @@
 These are software and hardware requirements to Livinglab Blockchain node installation
 
+> If you need more information you can ask our support team: `tech-support@caelumlabs.com`
+
 # Software Requirements
 
 - Knowledge about Docker, Kubernetes and Helm

@@ -2,6 +2,8 @@
 
 This is the documentation to deploy a substrate regulator node on the Livinglab Testnet 
 
+> If you need more information you can ask our support team: `tech-support@caelumlabs.com`
+
 # Requirements
 
 - Knowledge about Docker, Kubernetes and Helm

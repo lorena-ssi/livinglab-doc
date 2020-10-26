@@ -8,6 +8,7 @@
 
 ## 2. Idspace
 
-* [Requirements and Deployment](idspace/howto.md)
+* [Overview](2_idspace/overview.md)
+* [Requirements and Deployment](2_idspace/howto.md)
 
 
