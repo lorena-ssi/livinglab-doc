@@ -12,4 +12,4 @@ These are the main topics we discuss here:
 1. Living Lab Blockchain Network
 2. Idspace
 
-If you need more information you can ask our support team: tech-support@caelumlabs.com
+> If you need more information you can ask our support team: `tech-support@caelumlabs.com`

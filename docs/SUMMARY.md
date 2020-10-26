@@ -1,5 +1,7 @@
 # Summary
 
+## 0. Introduction
+
 ## 1. LivingLab Blockchain Network
 
 * [Node Requirements](1_network/livinglab-node/requirements.md)
